@@ -33,7 +33,7 @@
 
 1. 克隆项目到本地：
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/uncle-Parker/face-reg-manager.git
    cd face-reg-manager
    ```
 
